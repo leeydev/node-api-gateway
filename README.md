@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/leeydev/node-api-gateway)
+![Version](https://img.shields.io/github/package-json/v/leeydev/node-api-gateway)
+
 # node-api-gateway
 
 Professional API Gateway built with Node.js.
